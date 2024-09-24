@@ -4,4 +4,4 @@ This is my new project
  <html> </html>
 <body> </body>
 
-<hi>My first php page<\hi>
+<hi>My first php page</hi>
